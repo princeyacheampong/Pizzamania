@@ -1,0 +1,14 @@
+body{background-image: url(Wedding.jpg);
+	color: black;
+	background-repeat: no-repeat;
+  background-size: cover;}
+
+ nav {
+  background-color: black;
+  color: white;font-family: Candara;
+}
+
+p{ text-align:justify; color: black;}
+
+.IMG{width: 100px; height: 100px;}
+
